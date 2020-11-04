@@ -20,7 +20,7 @@
 
 
 
-### Glad to see you here!  
+### I'm glad to see you here!  
 Junior machine learning engineer with experience in projects and works focusing on helping companies to empower themselves from data to obtain greater performance and profitability supported by the latest technological advances.
 
 Skills in data collection, exploratory analysis and interpretation of large data sets, machine learning, statistics, problem-solving and programming. I love to be in continuous learning of new topics in Data Science, data visualization and research. I possess strong attention to detail, and a significant ability to work in a team. I believe that strategy and growth are the two pillars that drive my creative and professional soul, for this reason, I like to share and communicate valuable ideas that impact and help others learn through them.  
