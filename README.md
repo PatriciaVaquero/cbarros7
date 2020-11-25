@@ -1,5 +1,7 @@
-
-![Banner](https://i.imgur.com/d3uIT8c.png)
+<p align="center">
+  <img src="https://i.imgur.com/d3uIT8c.png" style="max-width:100%;">
+</p>
+<br>
 
 ## Hey 👋, I'm Carlos Barros!  
   
@@ -61,8 +63,7 @@ Machine Learning Engineer with experience in projects and works focusing on help
 ### 💬 Want to know more about me?
 You can find me on- [My personal portfolio](https://carlosbarros.netlify.app/).
 
-<img src="project.gif" width="90%"><br/><br/>
-
+<img src="project.gif" align="center" style="max-width:100%;" style="width: 50%"><br/><br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
