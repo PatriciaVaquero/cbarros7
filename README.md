@@ -1,3 +1,6 @@
+
+![Banner](https://i.imgur.com/d3uIT8c.png)
+
 ## Hey 👋, I'm Carlos Barros!  
   
 
@@ -17,14 +20,16 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### I'm glad to see you here!  
-Machine Learning Engineer with experience in projects and works focusing on helping companies to empower themselves from data to obtain greater performance and profitability supported by the latest technological advances.
+Machine Learning Engineer with experience in projects and works focusing on helping companies to empower themselves from data to obtain greater performance and profitability supported by the latest technological advances. I love to explore and learn about new things.
 
-Skills in data collection, exploratory analysis and interpretation of large data sets, machine learning, statistics, problem-solving and programming. I love to be in continuous learning of new topics in Data Science, data visualization and research. I possess strong attention to detail, and a significant ability to work in a team. I believe that strategy and growth are the two pillars that drive my creative and professional soul, for this reason, I like to share and communicate valuable ideas that impact and help others learn through them.  
- 
+- 🌱 I’m currently learning Java and Scala.
+- 🔭 I’m currently working on build different predictive models in the financial sector.
+- 😀 I like cooking :man_cook:, reading :books:, climbing :climbing_man:, photography :camera_flash: and playing the violin :violin:. 
+- 📫 Read my blogs: [Carlos Barros](https://medium.com/@cbarros7).
+- 💬 Ask me about anything an everything.
+- ⚡ Fun fact: My first line of code was not "Hello World!"
+
 <br/>  
 
 
@@ -52,6 +57,13 @@ Skills in data collection, exploratory analysis and interpretation of large data
 <br/>  
 
 
+
+### 💬 Want to know more about me?
+You can find me on- [My personal portfolio](https://carlosbarros.netlify.app/).
+
+<img src="project.gif" width="90%"><br/><br/>
+
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -65,16 +77,3 @@ Skills in data collection, exploratory analysis and interpretation of large data
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
