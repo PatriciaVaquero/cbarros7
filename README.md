@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://i.imgur.com/d3uIT8c.png" style="max-width:100%;">
 </p>
 <br>
@@ -30,6 +30,7 @@ Machine Learning Engineer with experience in projects and works focusing on help
 - 😀 I like cooking :man_cook:, reading :books:, climbing :climbing_man:, photography :camera_flash: and playing the violin :violin:. 
 - 📫 Read my blogs: [Carlos Barros](https://medium.com/@cbarros7).
 - 💬 Ask me about anything an everything.
+- 🎯 Portfolio site: [Portfolio](https://carlosbarros.netlify.app/)
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
 <br/>  
@@ -57,13 +58,6 @@ Machine Learning Engineer with experience in projects and works focusing on help
 </div>  
 
 <br/>  
-
-
-
-### 💬 Want to know more about me?
-You can find me on [my personal portfolio](https://carlosbarros.netlify.app/).
-
-<img src="project.gif" align="center" style="max-width:50%;"><br/><br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
