@@ -61,9 +61,9 @@ Machine Learning Engineer with experience in projects and works focusing on help
 
 
 ### 💬 Want to know more about me?
-You can find me on- [My personal portfolio](https://carlosbarros.netlify.app/).
+You can find me on [my personal portfolio](https://carlosbarros.netlify.app/).
 
-<img src="project.gif" align="center" style="max-width:100%;" style="width: 50%"><br/><br/>
+<img src="project.gif" align="center" style="max-width:50%;"><br/><br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
